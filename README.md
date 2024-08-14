@@ -60,37 +60,3 @@ This project is an e-commerce website designed for selling shoes, similar in des
 
 ### npm install
 
-3. **Set up environment variables:**
-
-Create a .env file in the root directory with the following content:
-
-env
-NODE_ENV=development
-PORT=5000
-MONGO_URI=your_mongo_db_uri
-SESSION_SECRET=your_session_secret
-STRIPE_SECRET_KEY=your_stripe_secret_key
-Run the application:
-
-npm start
-The application will be available at http://localhost:5000.
-
-Usage
-Development Mode:
-
-npm run dev
-This will run the server with hot-reloading enabled.
-
-Production Mode:
-
-npm run build
-npm start
-Contribution
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
-For any questions or feedback, feel free to reach out to [maithilikawale16@gmail.com].
-
