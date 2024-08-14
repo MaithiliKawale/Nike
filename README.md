@@ -57,6 +57,6 @@ This project is an e-commerce website designed for selling shoes, similar in des
    cd e-commerce-shoe-store
 
 2. **Install dependencies:**
-
-### npm install
+  ```bash
+  npm install
 
